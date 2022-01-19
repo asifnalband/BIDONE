@@ -1,0 +1,5 @@
+D:\Bidone\BidoneTest\BidoneTest\bin\BidoneTest.dll
+D:\Bidone\BidoneTest\BidoneTest\bin\BidoneTest.pdb
+D:\Bidone\BidoneTest\BidoneTest\obj\Debug\BidoneTest.csprojResolveAssemblyReference.cache
+D:\Bidone\BidoneTest\BidoneTest\obj\Debug\BidoneTest.dll
+D:\Bidone\BidoneTest\BidoneTest\obj\Debug\BidoneTest.pdb
